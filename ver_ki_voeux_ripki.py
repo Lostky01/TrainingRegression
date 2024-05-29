@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#ver.ki.voeux - ripki.ipynb
+#ver.ki.voeux - ripki.py
 
 import pandas as pd
 
